@@ -1,3 +1,1 @@
-conflictstatrt
-devhello 1 file.
-
+new hello 1 file.
