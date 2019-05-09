@@ -1,1 +1,3 @@
-new hello 1 file.
+conflictstatrt
+devhello 1 file.
+
